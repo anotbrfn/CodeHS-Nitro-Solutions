@@ -1,4 +1,4 @@
-# Unit 5: Writ
+# Unit 5: Writing
 
 Solutions for Unit 4: Iterations CodeHS problems
 
