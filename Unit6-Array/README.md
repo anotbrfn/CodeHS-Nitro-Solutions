@@ -1,4 +1,4 @@
-# Unit 6: Arr
+# Unit 6: Array
 
 Solutions for Unit 5: Writing Classes CodeHS problems
 
