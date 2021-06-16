@@ -1,4 +1,3 @@
-
 # Unit 6: Array
 
 Solutions for Unit 6: Array CodeHS problems
