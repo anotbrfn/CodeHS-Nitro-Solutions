@@ -1,4 +1,4 @@
-# Unit 7: Array
+# Unit 7: ArrayList
 
 Solutions for Unit 6: Array CodeHS problems
 
