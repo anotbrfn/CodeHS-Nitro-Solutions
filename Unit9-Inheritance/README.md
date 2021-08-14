@@ -1,4 +1,4 @@
-# Unit 10: Inheritance
+# Unit 9: Inheritance
 
 Solutions for Unit 9: Inheritance CodeHS problems
 
